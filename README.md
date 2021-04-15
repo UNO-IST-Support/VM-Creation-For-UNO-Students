@@ -64,7 +64,9 @@ Note: Make sure to save any work before you start this installation. Once you in
 * 4 GB RAM
 * 1 CPU with 2 Cores
 <br/>
+
 ![typical](pictures/typical.png)
+
 <br/>
 
 ## When asked for an Operating System, use the "Browse..." option to locate the Ubuntu ISO. If you did not move the file to a new spot, it may still be in Downloads. Once the Operating System is selected, please click "Next".
