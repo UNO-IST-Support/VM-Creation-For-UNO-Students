@@ -63,6 +63,7 @@ Note: Make sure to save any work before you start this installation. Once you in
 * 30 GB Hard Drive
 * 4 GB RAM
 * 1 CPU with 2 Cores
+<br/>
 ![typical](pictures/typical.png)
 <br/>
 
