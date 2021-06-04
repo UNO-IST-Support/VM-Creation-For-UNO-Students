@@ -85,7 +85,7 @@ Note: Make sure to save any work before you start this installation. Once you in
 ![vmdisk](pictures/vmdisk.png)
 <br/>
 
-## Next, you will see a `Ready to Create Virtual Machine` window. We are going to change some of the hardware before we finalize the VM. Please select the **Customize Hardware...** option. However if the default settings appear to be up to your standards, you can select `Finish`.
+## Next, you will see a `Ready to Create Virtual Machine` window. We are going to change some of the hardware before we finalize the VM. Please select the `Customize Hardware...` option. However if the default settings appear to be up to your standards, you can select `Finish`.
 ![customizehardware](pictures/customizehardware.png)
 <br/>
 
