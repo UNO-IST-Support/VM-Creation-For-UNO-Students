@@ -101,4 +101,4 @@ Note: Make sure to save any work before you start this installation. Once you in
 ![powerOn](pictures/powerOn.png)
 <br/>
 
-## If you have any issues with your VMWare products, creating a VM, or issues with the VM, please contact the professor first to verify any issues. If problem persists, please contant the Systems Office.
+## If you have any issues with your VMWare products, creating a VM, or issues with the VM, please contact the professor first to verify any issues. If problem persists, please contact the Systems Office.
